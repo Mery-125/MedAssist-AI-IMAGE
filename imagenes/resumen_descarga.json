@@ -1,0 +1,12 @@
+{
+  "input": "medicamentos_5000_con_texto.json",
+  "carpeta_salida": "imagenes",
+  "limite": 10000,
+  "resume": true,
+  "imagenes_previas": 1000,
+  "imagenes_vistas": 10010,
+  "imagenes_descargadas_en_ejecucion": 9000,
+  "imagenes_descargadas_totales": 10000,
+  "imagenes_fallidas": 10,
+  "manifest_csv": "imagenes/manifest_imagenes.csv"
+}
