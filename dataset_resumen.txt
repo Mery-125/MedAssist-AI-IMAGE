@@ -1,0 +1,97 @@
+Resumen del dataset
+===================
+Número total de registros leídos: 10000
+Número total de imágenes encontradas: 9998
+Número de imágenes de caja: 5021
+Número de imágenes de pastilla: 4977
+Número de clases únicas de macroclase_15_nombre: 15
+Número de clases únicas de atc3_nombre: 185
+Número de clases únicas de principio_activo_normalizado: 1231
+Número de clases únicas de nombre_normalizado: 4967
+
+Top 20 clases más frecuentes de macroclase_15_nombre
+--------------------------------------------------
+Cardiovascular: 1807
+Neurología y psiquiatría: 1601
+Antiinfecciosos sistémicos: 805
+Respiratorio: 763
+Dolor y anestesia: 684
+Genitourinario y hormonas sexuales: 617
+Hematología y sangre: 586
+Oncología: 558
+Inmunología y biológicos: 494
+Musculoesquelético: 481
+Metabolismo, diabetes y nutrición: 426
+Digestivo: 374
+Hormonal sistémico y varios diagnósticos: 298
+Órganos de los sentidos: 266
+Dermatología: 238
+
+Top 20 clases más frecuentes de atc3_nombre
+------------------------------------------
+INMUNOSUPRESORES: 446
+ANTIPSICOTICOS: 399
+ANTAGONISTAS DE LOS RECEPTORES DE ANGIOTENSINA II, COMBINACIONES: 393
+ANTIDEPRESIVOS: 338
+FARMACOS HIPOGLUCEMIANTES EXCLUYENDO INSULINAS: 332
+AGENTES MODIFICADORES DE LOS LIPIDOS, MONOFARMACOS: 324
+OTROS ANALGESICOS Y ANTIPIRETICOS: 302
+PRODUCTOS ANTIINFLAMATORIOS Y ANTIRREUMATICOS NO ESTEROIDEOS: 300
+OPIOIDES: 258
+ANTAGONISTAS DE LOS RECEPTORES DE ANGIOTENSINA II, MONOTERAPIA: 248
+AGENTES ANTITROMBOTICOS: 246
+ANTIEPILEPTICOS: 236
+Inhibidores de la proteinquinasa: 216
+OTROS PRODUCTOS DE USO UROLOGICO, INCLUYENDO ANTIESPASMODICOS: 215
+FARMACOS ANTI-DEMENCIA: 200
+AGENTES CONTRA LA ULCERA PEPTICA Y EL REFLUJO GASTROESOFAGICO (RGE/GORD): 196
+ADRENERGICOS, INHALATORIOS: 182
+ANTIVIRALES DE ACCION DIRECTA: 182
+ANTIHISTAMINICOS PARA USO SISTEMICO: 172
+AGENTES DOPAMINERGICOS: 164
+
+Top 20 clases más frecuentes de principio_activo_normalizado
+-------------------------------------------------------------
+pregabalina: 90
+quetiapina fumarato: 84
+paracetamol: 84
+olanzapina: 80
+aripiprazol: 78
+valsartan + hidroclorotiazida: 74
+ibuprofeno: 74
+dexketoprofeno trometamol: 68
+metotrexato: 68
+etoricoxib: 62
+valsartan: 62
+topiramato: 60
+rosuvastatina calcica: 54
+venlafaxina hidrocloruro: 54
+risperidona: 52
+lamotrigina: 52
+atorvastatina calcica trihidrato: 52
+alprazolam: 52
+sildenafilo citrato: 50
+escitalopram oxalato: 50
+
+Top 20 clases más frecuentes de nombre_normalizado
+---------------------------------------------------
+privigen 100 mg ml solucion para perfusion: 8
+pradaxa 110 mg capsulas duras: 6
+xarelto 10 mg comprimidos recubiertos con pelicula: 6
+rivastigmina sandoz 1 5 mg capsulas duras efg: 6
+eliquis 2 5 mg comprimidos recubiertos con pelicula: 6
+pergoveris 150 ui 75 ui polvo y disolvente para solucion inyectable: 6
+ristaben 100 mg comprimidos recubiertos con pelicula: 4
+mirapexin 0 18 mg comprimidos: 4
+fampyra 10 mg comprimidos de liberacion prolongada: 4
+imfinzi 50 mg ml concentrado para solucion para perfusion: 4
+xiliarx 50 mg comprimidos: 4
+repatha 140 mg solucion inyectable en pluma precargada: 4
+lixiana 30 mg comprimidos recubiertos con pelicula: 4
+lixiana 60 mg comprimidos recubiertos con pelicula: 4
+saxenda 6 mg ml solucion inyectable en pluma precargada: 4
+pradaxa 75 mg capsulas duras: 4
+januvia 100 mg comprimidos recubiertos con pelicula: 4
+mirapexin 0 7 mg comprimidos: 4
+protopic 0 03 pomada: 4
+protopic 0 1 pomada: 4
