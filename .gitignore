@@ -1,0 +1,2 @@
+# Prevent large raw dataset JSON from being committed
+medicamentos_5000_con_texto.json
